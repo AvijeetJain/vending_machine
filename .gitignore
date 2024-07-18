@@ -1,0 +1,7 @@
+.vscode
+*.exe
+node_modules
+tempCodeRunnerFile.c
+.idea
+*.log
+dist/
